@@ -12,6 +12,13 @@ app.get('/', (req, res)=>{
 });
 app.get('/course', (req, res)=>{
     res.send(course)
+});
+app.get('/course/:id',(req, res)=>{
+    const id = parseInt(req.params.id);
+    const courses = course.find(c => c.id === id);
+    res.send(courses)
+    
 })
+
 
 app.listen(port)
