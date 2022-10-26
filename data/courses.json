@@ -1,18 +1,76 @@
 [
   {
     "id": 1,
-    "name": "sabbir"
+    "name": "The Complete 2022 Web Development Course",
+    "title":"Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps",
+    "rating":4.5,
+     "reviews":831890,
+     "total_hours":7.5,
+     "price":20,
+     "img":"https://coursecouponclub.com/wp-content/uploads/2021/02/1565838_e54e_12.jpg"
+     
+
+
   },
-  {
-    "id": 2,
-    "name": "Arman"
-  },
+ 
   {
     "id": 3,
-    "name": "Raju"
+    "name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+    "title":"Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
+    "rating":4.00,
+     "reviews":631890,
+     "total_hours":3.5,
+     "price":100,
+     "img":"https://www.filepicker.io/api/file/STcItmMaQrusEPWsPf1o"
+
+
   },
   {
     "id": 4,
-    "name": "Mafia"
+    "name": "Angular - The Complete Guide (2022 Edition)",
+    "title":"Master Angular 13 (formerly Angular 2) and build awesome, reactive web apps with the successor of Angular.js",
+    "rating":4.5,
+     "reviews":131890,
+     "total_hours":2.5,
+     "price":45,
+     "img":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/4MQJdtZlRjucDERLLHcA"
+
+
+  },
+  {
+    "id": 5,
+    "name": "Python for Data Science and Machine Learning Bootcamp",
+    "title":"Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!",
+    "rating":4.00,
+     "reviews":91890,
+     "total_hours":5,
+     "price":55,
+     "img":"https://www.educative.io/v2api/collection/5757739470946304/5476264494235648/image/6509442108489728"
+
+
+  },
+  {
+    "id": 2,
+    "name": "Complete C# Unity Game Developer 2D",
+    "title":"Learn Unity in C# & Code Your First Five 2D Video Games for Web, Mac & PC. The Tutorials Cover Tilemap",
+    "rating":4.5,
+     "reviews":2318,
+     "total_hours":6.1,
+     "price":89
+
+
+  },
+  {
+    "id": 6,
+    "name": "100 Days of Code: The Complete Python Pro Bootcamp for 2022",
+    "title":"Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
+    "rating":4.7,
+     "reviews":731890,
+     "total_hours":4.5,
+     "price":55,
+     "img":"https://pbs.twimg.com/media/FGfYCNCXEAQBmzq.jpg"
+
+
   }
+  
 ]
